@@ -1,0 +1,11 @@
+/* Query 1.)
+Calculate the average of the ratings (rounded to 3 decimal places) of the movies
+by genre for each year from 2010 to 2014 for each genre, Adventure, and
+Comedy. */
+
+
+/* Query 2.)
+For each year from 2007 to 2021 and for the Romance genre, find out the lead
+actor/actress names with the highest average rating. In case there are multiple
+actors/actresses with the same highest average rating, you need to display all of
+them. */

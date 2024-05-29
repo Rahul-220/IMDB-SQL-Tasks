@@ -5,17 +5,17 @@ Comedy. */
 
 
 YEAR	     GENRES      YEARLY_AVG
-----       ----------   ---------
+----      ----------  ---------
 2010	     Adventure	  6.069
-2010	     Comedy	      5.896
+2010	     Comedy	     5.896
 2011	     Adventure	  6.124
-2011	     Comedy	      5.88
+2011	     Comedy	     5.88
 2012	     Adventure	  6.197
-2012	     Comedy	      5.901
+2012	     Comedy	     5.901
 2013	     Adventure	  6.129
-2013	     Comedy	      5.936
+2013	     Comedy	     5.936
 2014	     Adventure	  6.23
-2014	     Comedy	      5.903
+2014	     Comedy	     5.903
 
 
 /* Query 2.)
@@ -25,42 +25,42 @@ actors/actresses with the same highest average rating, you need to display all o
 them. */
 
 
-YEAR	  GENRE     HIGHEST_ AVG_ACTORRATING  MOST_POPULAR_ACTOR
+YEAR	 GENRE   HIGHEST_ AVG_ACTORRATING  MOST_POPULAR_ACTOR
 ----		------		-----------------------		------------------
 
-2007		Romance		       7.8			          Keira Knightley
+2007		Romance		       7.8			            Keira Knightley
 
-2007		Romance		       7.8			          Glen Hansard
+2007		Romance		       7.8			            Glen Hansard
 
-2008	  Romance		        8			            Dev Patel
+2008	  Romance		       8			             Dev Patel
 
-2009	  Romance		       8.2			          Ricardo Darin
+2009	  Romance		       8.2			           Ricardo Darin
 
-2010	  Romance		       7.9			          Shah Rukh Khan
+2010	  Romance		       7.9			           Shah Rukh Khan
 
-2011	  Romance		       7.9			          Jean Dujardin
+2011	  Romance		       7.9			           Jean Dujardin
 
-2012	  Romance		       8.1			          Ranbir Kapoor
+2012	  Romance		       8.1			           Ranbir Kapoor
 
-2013		Romance		        8			            Joaquin Phoenix
+2013		Romance		        8			             Joaquin Phoenix
 
-2014	  Romance		       7.7			          Eddie Redmayne
+2014	  Romance		       7.7			           Eddie Redmayne
 
-2014	  Romance		       7.7			          Shailene Woodley
+2014	  Romance		       7.7			           Shailene Woodley
 
-2015	  Romance		       7.5			          Saoirse Ronan
+2015	  Romance		       7.5			           Saoirse Ronan
 
-2016	  Romance		       8.1			          Kim Min-hee
+2016	  Romance		       8.1			           Kim Min-hee
  
-2017	  Romance		       7.8			          Armie Hammer
+2017	  Romance		       7.8			           Armie Hammer
 
-2018	  Romance		       7.6			          Lady Gaga
+2018	  Romance		       7.6			           Lady Gaga
 
-2019	  Romance		       8.1			          Noemie Merlant
+2019	  Romance		       8.1			           Noemie Merlant
 
-2020	  Romance		       8.1			          Sushant Singh Rajput
+2020	  Romance		       8.1			           Sushant Singh Rajput
 
-2021	  Romance		       7.3			          Alana Haim
+2021	  Romance		       7.3			           Alana Haim
 
 
 
